@@ -15,6 +15,3 @@ Projeto página de login simples realizado em 2020 para aplicar os conceitos est
 - Uso da tag <input> para criar campos de entrada;
 - Uso das tags <select> e <option> para criar uma lista suspensa de opções;
 - Uso dos atributos de validação, como required, para garantir que os dados inseridos no formulário sejam válidos.
-
-#### `CSS` 
-- Funções em JavaScript
